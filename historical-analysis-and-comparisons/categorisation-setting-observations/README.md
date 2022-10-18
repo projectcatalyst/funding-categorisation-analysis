@@ -6,3 +6,6 @@ description: >-
 
 # Categorisation Setting Observations
 
+{% content-ref url="fund-8.md" %}
+[fund-8.md](fund-8.md)
+{% endcontent-ref %}

@@ -24,17 +24,17 @@ All of the following examples have a dedicated fund page that include observatio
 
 <figure><img src="../../.gitbook/assets/fund-10-funding-access.png" alt=""><figcaption></figcaption></figure>
 
-****[**Fund 9**](fund-9.md)****
+****[**Fund 9**](fund-9.md)
 
 <figure><img src="../../.gitbook/assets/fund-9-funding-access.png" alt=""><figcaption></figcaption></figure>
 
-****[**Fund 8**](fund-8.md)****
+****[**Fund 8**](fund-8.md)
 
 <figure><img src="../../.gitbook/assets/fund-8-funding-access.png" alt=""><figcaption></figcaption></figure>
 
 ****[**Fund 7**](fund-7.md)
 
-<figure><img src="../../.gitbook/assets/fund-7-funding-access.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/fund-7-funding-access (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Funding categories examples
 
@@ -50,8 +50,6 @@ This can be achieved by splitting funding access into four 25% allocations for t
 
 <figure><img src="../../.gitbook/assets/categories-funding-access-example.png" alt=""><figcaption></figcaption></figure>
 
-****
-
 **Development & Infrastructure focussed**
 
 What if the community thought the Development & Infrastructure categorisation of proposal focus areas needs more funding directed to that area as a priority and less on Community & Outreach and slightly less on Governance & Identity? To achieve this with funding categories the community would just need to vote on a higher percentage value for the Development & Infrastructure category and reduce the weighting in the other categories. For this example the community would only need to vote with four different values that add up to 100 to indicate the budget weighting preference. The aggregate of every voters budget weighting would determine the final weightings.
@@ -59,8 +57,6 @@ What if the community thought the Development & Infrastructure categorisation of
 <figure><img src="../../.gitbook/assets/categories-funding-access-example-development.png" alt=""><figcaption></figcaption></figure>
 
 ### Analysis
-
-
 
 **Higher complexity from overlapping categorisations**
 

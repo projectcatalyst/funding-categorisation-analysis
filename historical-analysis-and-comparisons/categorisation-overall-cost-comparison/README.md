@@ -33,13 +33,19 @@ Overall cost comparisons for categorisation approaches in different funding roun
 
 <figure><img src="../../.gitbook/assets/overall-costs-fund-8.png" alt=""><figcaption></figcaption></figure>
 
+****
+
 **Fund 7**
 
 <figure><img src="../../.gitbook/assets/overall-costs-fund-7.png" alt=""><figcaption></figcaption></figure>
 
+****
+
 **Fund 6**
 
 <figure><img src="../../.gitbook/assets/overall-costs-fund-6.png" alt=""><figcaption></figcaption></figure>
+
+****
 
 ### **Example scenario overall cost comparisons**
 
@@ -57,7 +63,7 @@ Scaled examples to show cost comparisons in different scenarios such as increase
 
 ### Analysis
 
-<figure><img src="../../.gitbook/assets/wojakgreen.png" alt=""><figcaption><p>80%+ cost savings from using funding categories</p></figcaption></figure>
+![80%+ cost savings from using funding categories](../../.gitbook/assets/wojakgreen.png)
 
 ****
 
