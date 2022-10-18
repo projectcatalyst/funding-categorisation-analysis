@@ -3,7 +3,7 @@
 * [Overview](README.md)
 * [What Is Funding Categorisation?](what-is-funding-categorisation.md)
 
-## Funding Categorisation Types
+## Funding Categorisation Types Analysis
 
 * [Idea Categorisation Analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/wD0ZpGoCt4aFrCJnqaW0/)
 * [Contributor Categorisation Analysis](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/gdWEUdtxBpngJ9kJPPlB/)
@@ -38,3 +38,9 @@
 
 * [Challenge Setting Process](challenge-settings/challenge-setting-process.md)
 * [Challenge Setting Issues](challenge-settings/challenge-setting-issues.md)
+
+## 🔗 Links
+
+* [Funding Categories](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/QQsRsN95MX1ihFh4Vffn/)
+* [All Documentation](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/vfjkdYxpr0HB9rUDqH4r/)
+* [Suggest Changes & Give Feedback](https://docs.catalystcontributors.org/documentation/suggest-changes-and-give-feedback)
