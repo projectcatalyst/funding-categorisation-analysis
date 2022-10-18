@@ -48,7 +48,7 @@ For the following examples we ignore Catalyst contributors and Cardano contribut
 
 This can be achieved by splitting funding access into four 25% allocations for the each of the main categories of community & outreach, products & integrations, governance & identity and development & infrastructure.
 
-<figure><img src="../../.gitbook/assets/categories-funding-access-example (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/categories-funding-access-example.png" alt=""><figcaption></figcaption></figure>
 
 ****
 
