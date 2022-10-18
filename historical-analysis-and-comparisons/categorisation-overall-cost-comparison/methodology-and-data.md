@@ -1,9 +1,3 @@
----
-description: >-
-  Methodology and data behind how the cost comparison is estimated and
-  calculated
----
-
 # Methodology & Data
 
 Funding categorisations can go through multiple steps to be created, assessed, voted and used in the Catalyst process. The number of steps are different for challenge setting and funding categories which take different approaches in how to tackle funding categorisation.
@@ -179,47 +173,31 @@ Challenge settings are a competitive form of categorisation. Categorisations wil
 
 
 
+**Funding categories (No effort required)**
+
+Not applicable - Funding categories are already defined so no effort here is required.
+
+
+
+### Collaboration & moderation
+
+Collaboration and moderation concerns the implications of ensuring that the funding categorisations follow guidelines and reduce any bad outcomes.
+
+
+
+**Challenge settings**
+
+Challenge settings are a competitive form of categorisation. Categorisations will compete with one another in the voting process to be selected. Due to this there is a need for either collaboration from challenge teams to remove duplication and any cross over where necessary. In addition to this, or as an alternative approach, moderation from Catalyst contributors can also fulfil the role of ensuring sensible guidelines for categorisations are being followed. With this in mind the following estimations can be applied:
+
+* Repeated categorisations (30 minutes categorisation) - Repeated categorisation teams may or may not need to collaborate with other challenge teams. They also may not need much moderation if they have been used before. Due to this a conservative 30 minutes average effort is applied.
+* New categorisations (60 minutes each categorisation) - Introducing new categorisations often means trying to change or improve existing categorisations or introduce some new goal for the ecosystem. The challenge team members will benefit from collaborating with people in the relevant focus area for this categorisation that they are creating. Both collaboration or moderation of these new categorisations could be required. A conservative 60 minute average amount of effort will be attached.
+* Average collaboration & moderation (45 minutes each categorisation) - Averaging the two categorisation types effort equally.
+
+
+
 **Funding categories**
 
 Not applicable - Funding categories are an inclusive form of categorisation covering all forms of idea and innovation. They do not require teams to form each funding round to collaborate on the creating of categorisation nor do they need to be moderated prior to assessment due to already being predefined.
-
-
-
-### **Categorisation assessment**
-
-Submitted funding categorisations that meet the submission guidelines are then assessed by the community advisors.
-
-
-
-**Challenge settings**
-
-In every funding round the challenge settings are assessed prior to voting. This assessment is the same whether they are a repeated or new challenge setting.
-
-* Allocated assessment budget (4% of total budget) - Each round a percentage is allocated for the assessment stage. The number of challenge setting proposals divided by the total number of proposals can be used to determine a percentage amount of the budget that will be allocated for assessing proposals that cover funding categorisation.
-
-****
-
-**Funding categories**
-
-Not applicable - Funding categories are a recurring form of categorisation and do not require assessment each funding round.
-
-
-
-### Assessment review
-
-Assessments of funding categorisations are reviewed to ensure the assessments follow guidelines.
-
-
-
-**Challenge settings**
-
-* Allocated assessment review budget (1% of total budget) - Each round a percentage is allocated for the assessment review stage. The number of challenge setting proposals divided by the total number of proposals can be used to determine a percentage amount of the budget that will be allocated for reviewing challenge assessments.
-
-
-
-**Funding categories**
-
-Not applicable - No moderation is required for funding categories as no assessments need to be made each funding round.
 
 
 
