@@ -6,7 +6,7 @@ description: >-
 
 # Focus Area Categorisation Approaches
 
-For the following comparison we are focused on categorisation for proposal based funding. The comparisons are also for comparing potential fixed core categories that would be used for the funding process. This means that analysis is done upfront for defining the categories to use where any changes would be less frequent instead of changing them every funding round.
+For the following comparison we are focused on how to categorise focus areas for idea based funding. These comparisons will help with comparing suggested groups of categories that could be used on a recurring basis for the funding process. Analysis can be done upfront when defining any categories to use. With recurring categorisation changes would be less frequent instead of changing them every funding round.
 
 Other funding approaches should be taken into account when reviewing this analysis. Full time contributor based funding, such as [Catalyst contributors](https://catalyst-swarm.gitbook.io/catalyst-contributors/), are a complimentary funding approach to proposal based funding.
 
@@ -185,4 +185,4 @@ Using a combination of the above approaches in a combined category approach. Thi
 ### **References**
 
 * [https://eprint.iacr.org/2018/435.pdf](https://eprint.iacr.org/2018/435.pdf) - A Treasury System for Cryptocurrencies research paper written in collaboration with IOG.
-* [https://drive.google.com/file/d/15zQgrCLvmmIlnvYTQFpD7Od2AqNO-ZZA/view?usp=sharing](https://drive.google.com/file/d/15zQgrCLvmmIlnvYTQFpD7Od2AqNO-ZZA/view?usp=sharing) - A Catalyst community member, Tomi, previously looked at Catalyst funding allocation approaches. The organisation functions approach above takes influence from this work. Products & Integrations has replaced the community challenge part from this source to simplify the suggested categorisation and prevent the issues around specific categories that are outlined in the [funding allocation approaches](../categorisation-approaches/broad-vs-specific-categorisations.md) analysis.
+* [https://drive.google.com/file/d/15zQgrCLvmmIlnvYTQFpD7Od2AqNO-ZZA/view?usp=sharing](https://drive.google.com/file/d/15zQgrCLvmmIlnvYTQFpD7Od2AqNO-ZZA/view?usp=sharing) - A Catalyst community member, Tomi, previously looked at Catalyst funding allocation approaches. The organisation functions approach above takes influence from this work. Products & Integrations has replaced the community challenge part from this source to simplify the suggested categorisation and prevent the issues around [specific categories](../categorisation-approaches/broad-vs-specific-categorisations.md) that are outlined in the funding allocation approaches analysis.
