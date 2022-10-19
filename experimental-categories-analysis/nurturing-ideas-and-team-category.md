@@ -18,7 +18,7 @@ The nurturing ideas & teams category puts a restriction on the funding request s
 
 The four main categories of products & integrations, community & outreach, governance & identity and development & infrastructure are created to cover all forms of idea and innovation.
 
-The main problem that could emerge with just using these categories is that a larger amount of funding will be available between a smaller collection of categories. Although this brings many of the [advantages of funding categories](broken-reference) it also means there is higher competition. This competition could make it difficult for new ideas or new teams to get funding over larger and more established projects in the ecosystem.
+The main problem that could emerge with just using these categories is that a larger amount of funding will be available between a smaller collection of categories. Although this brings many of the [advantages of the suggested idea funding categories](broken-reference) it also means there is higher competition. This competition could make it difficult for new ideas or new teams to get funding over larger and more established projects in the ecosystem.
 
 
 

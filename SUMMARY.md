@@ -55,7 +55,6 @@
 ## Experimental Categories Analysis
 
 * [Nurturing Ideas & Team Category](experimental-categories-analysis/nurturing-ideas-and-team-category.md)
-* [Community Contributors Category](experimental-categories-analysis/community-contributors-category.md)
 
 ## 🔗 Links
 
