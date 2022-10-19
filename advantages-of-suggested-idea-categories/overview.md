@@ -6,9 +6,11 @@ description: >-
 
 # Overview
 
-The suggested [idea funding categories](https://docs.catalystcontributors.org/catalyst-funding-categories/idea-funding-categories) offer a number of advantages that make it an effective approach for funding categorisation.
-
 <figure><img src="../.gitbook/assets/categories-benefits.png" alt=""><figcaption></figcaption></figure>
+
+The suggested [idea funding categories](https://docs.catalystcontributors.org/catalyst-funding-categories/idea-funding-categories) are an effective approach for idea based funding categorisation that offer a number of advantages:
+
+****
 
 * ****[**Efficient**](efficient.md) - Funding categories can be far more efficient than challenge setting as they remove the amount of effort needed to propose, assess and vote on categorisation changes.
 * ****[**Simple**](simple.md) **-** Funding categorisation does not need to be complex. Making funding categorisation complex, as it is with challenge settings, yields little benefit when compared to funding categories which use recurring, inclusive and broad categorisation. Effort is removed for justifying categorisations and drastically reduced for dealing with budget weighting decisions.&#x20;
