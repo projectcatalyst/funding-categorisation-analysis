@@ -16,7 +16,7 @@ Certain funding categorisations could result in reducing the spark of encouragem
 
 Encouraging the submission of proposals through using specific prioritisation does not need those priorities to be attached to funding categorisation. The following categorisation approaches could impact decreasing encouragement for proposal submission:
 
-* **Broad vs specific categorisations** - Broad categorisations result in there being less of a direct incentive for proposals about a specific focus area. Categorisations focussed on very specific focus areas can help with further incentivising proposers to submit proposals due to the more direct incentive encouragement. Creating a funding categorisations that are focussed on individual priorities leads to using specific categorisations. This means increase the chance of facing a number of issues as covered in the [broad vs specific](../../categorisation-approaches/broad-vs-specific-categorisations.md) categorisation comparison.
+* **Broad vs specific categorisations** - Broad categorisations result in there being less of a direct incentive for proposals about a specific focus area. Categorisations focussed on very specific focus areas can help with further incentivising proposers to submit proposals due to the more direct incentive encouragement. Creating a funding categorisations that are focussed on individual priorities leads to using specific categorisations. This means increase the chance of facing a number of issues as covered in the [broad vs specific](../../approaches/broad-vs-specific-categorisations.md) categorisation comparison.
 
 ****
 

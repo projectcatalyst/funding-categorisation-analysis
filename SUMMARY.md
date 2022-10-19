@@ -2,13 +2,13 @@
 
 * [Overview](README.md)
 
-## Categorisation Approaches
+## Approaches
 
-* [Overview](categorisation-approaches/overview.md)
-* [Broad vs Specific Categorisations](categorisation-approaches/broad-vs-specific-categorisations.md)
-* [Inclusive vs Exclusive Categorisations](categorisation-approaches/inclusive-vs-exclusive-categorisations.md)
-* [Unique vs Overlapping Categorisations](categorisation-approaches/unique-vs-overlapping-categorisations.md)
-* [Recurring vs Changing Categorisations](categorisation-approaches/recurring-vs-changing-categorisations.md)
+* [Overview](approaches/overview.md)
+* [Broad vs Specific Categorisations](approaches/broad-vs-specific-categorisations.md)
+* [Inclusive vs Exclusive Categorisations](approaches/inclusive-vs-exclusive-categorisations.md)
+* [Unique vs Overlapping Categorisations](approaches/unique-vs-overlapping-categorisations.md)
+* [Recurring vs Changing Categorisations](approaches/recurring-vs-changing-categorisations.md)
 
 ## Advantages Of Suggested Idea Categories
 
@@ -21,30 +21,30 @@
 * [Egalitarian](advantages-of-suggested-idea-categories/egalitarian.md)
 * [Promotes Healthy Competition](advantages-of-suggested-idea-categories/promotes-healthy-competition.md)
 
-## Idea Categorisation Analysis
+## Analysis
 
-* [Incentives & Game Theory For Open Source Development](idea-categorisation-analysis/incentives-and-game-theory-for-open-source-development.md)
-* [Community Priorities & Idea Proposal Supply Dynamics](idea-categorisation-analysis/community-priorities-and-idea-proposal-supply-dynamics.md)
-* [Addressing Concerns & Challenging Funding Situations](idea-categorisation-analysis/addressing-concerns-and-challenging-funding-situations/README.md)
-  * [High Proposal Competition](idea-categorisation-analysis/addressing-concerns-and-challenging-funding-situations/high-proposal-competition/README.md)
-    * [Proposers With Fewer Resources Considerations](idea-categorisation-analysis/addressing-concerns-and-challenging-funding-situations/high-proposal-competition/proposers-with-fewer-resources-considerations.md)
-  * [Low Proposal Visibility](idea-categorisation-analysis/addressing-concerns-and-challenging-funding-situations/low-proposal-visibility.md)
-  * [Reducing Idea Generation](idea-categorisation-analysis/addressing-concerns-and-challenging-funding-situations/reducing-idea-generation.md)
-  * [Decreased Proposal Submission Encouragement](idea-categorisation-analysis/addressing-concerns-and-challenging-funding-situations/decreased-proposal-submission-encouragement.md)
-  * [Difficulty Directing Funding](idea-categorisation-analysis/addressing-concerns-and-challenging-funding-situations/difficulty-directing-funding.md)
-  * [Reduced Verifiability](idea-categorisation-analysis/addressing-concerns-and-challenging-funding-situations/reduced-verifiability.md)
-  * [Less Specialised Challenge Teams](idea-categorisation-analysis/addressing-concerns-and-challenging-funding-situations/less-specialised-challenge-teams.md)
-  * [Not Enough Proposals Submitted](idea-categorisation-analysis/addressing-concerns-and-challenging-funding-situations/not-enough-proposals-submitted.md)
-  * [Low Quality Proposals](idea-categorisation-analysis/addressing-concerns-and-challenging-funding-situations/low-quality-proposals.md)
-  * [High Quality Proposals Cannot Be Submitted](idea-categorisation-analysis/addressing-concerns-and-challenging-funding-situations/high-quality-proposals-cannot-be-submitted.md)
-  * [Excessive Funding Requests](idea-categorisation-analysis/addressing-concerns-and-challenging-funding-situations/excessive-funding-requests.md)
-* [Alternative Idea Funding Categorisations](idea-categorisation-analysis/alternative-idea-funding-categorisations/README.md)
-  * [One categorisation](idea-categorisation-analysis/alternative-idea-funding-categorisations/one-categorisation.md)
-  * [Three categorisations](idea-categorisation-analysis/alternative-idea-funding-categorisations/three-categorisations.md)
-  * [Four categorisations (Recommended)](idea-categorisation-analysis/alternative-idea-funding-categorisations/four-categorisations-recommended.md)
-* [Approaches For Directing Funding](idea-categorisation-analysis/approaches-for-directing-funding.md)
-* [Egalitarian Funding Categorisation](idea-categorisation-analysis/egalitarian-funding-categorisation.md)
-* [Focus Area Categorisation Approaches](idea-categorisation-analysis/focus-area-categorisation-approaches.md)
+* [Incentives & Game Theory For Open Source Development](analysis/incentives-and-game-theory-for-open-source-development.md)
+* [Community Priorities & Idea Proposal Supply Dynamics](analysis/community-priorities-and-idea-proposal-supply-dynamics.md)
+* [Addressing Concerns & Challenging Funding Situations](analysis/addressing-concerns-and-challenging-funding-situations/README.md)
+  * [High Proposal Competition](analysis/addressing-concerns-and-challenging-funding-situations/high-proposal-competition/README.md)
+    * [Proposers With Fewer Resources Considerations](analysis/addressing-concerns-and-challenging-funding-situations/high-proposal-competition/proposers-with-fewer-resources-considerations.md)
+  * [Low Proposal Visibility](analysis/addressing-concerns-and-challenging-funding-situations/low-proposal-visibility.md)
+  * [Reducing Idea Generation](analysis/addressing-concerns-and-challenging-funding-situations/reducing-idea-generation.md)
+  * [Decreased Proposal Submission Encouragement](analysis/addressing-concerns-and-challenging-funding-situations/decreased-proposal-submission-encouragement.md)
+  * [Difficulty Directing Funding](analysis/addressing-concerns-and-challenging-funding-situations/difficulty-directing-funding.md)
+  * [Reduced Verifiability](analysis/addressing-concerns-and-challenging-funding-situations/reduced-verifiability.md)
+  * [Less Specialised Challenge Teams](analysis/addressing-concerns-and-challenging-funding-situations/less-specialised-challenge-teams.md)
+  * [Not Enough Proposals Submitted](analysis/addressing-concerns-and-challenging-funding-situations/not-enough-proposals-submitted.md)
+  * [Low Quality Proposals](analysis/addressing-concerns-and-challenging-funding-situations/low-quality-proposals.md)
+  * [High Quality Proposals Cannot Be Submitted](analysis/addressing-concerns-and-challenging-funding-situations/high-quality-proposals-cannot-be-submitted.md)
+  * [Excessive Funding Requests](analysis/addressing-concerns-and-challenging-funding-situations/excessive-funding-requests.md)
+* [Alternative Idea Funding Categorisations](analysis/alternative-idea-funding-categorisations/README.md)
+  * [One categorisation](analysis/alternative-idea-funding-categorisations/one-categorisation.md)
+  * [Three categorisations](analysis/alternative-idea-funding-categorisations/three-categorisations.md)
+  * [Four categorisations (Recommended)](analysis/alternative-idea-funding-categorisations/four-categorisations-recommended.md)
+* [Approaches For Directing Funding](analysis/approaches-for-directing-funding.md)
+* [Egalitarian Funding Categorisation](analysis/egalitarian-funding-categorisation.md)
+* [Focus Area Categorisation Approaches](analysis/focus-area-categorisation-approaches.md)
 
 ## Experimental Categories Analysis
 

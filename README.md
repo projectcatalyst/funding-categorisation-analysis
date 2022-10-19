@@ -12,7 +12,7 @@ There are a number of issues with the current [challenge setting process](https:
 
 ### Contents
 
-* ****[**Categorisation Approaches**](broken-reference) - Analysis looking at the different approaches for funding categorisation and how they impact the funding process to determine which approaches are more desirable.
+* ****[**Approaches**](broken-reference) - Analysis looking at the different approaches for idea based funding categorisations and how they impact the funding process to determine which approaches are more desirable.
 * ****[**Advantages of Suggested Idea Categories**](broken-reference) - A list of all of the advantages of using the suggested idea funding categories.
-* ****[**Idea Categorisation Analysis**](broken-reference) - Analysing different factors and approaches that can be used for idea categorisations and also addressing a number of concerns and questions.
+* ****[**Analysis**](broken-reference) - Analysing different factors, dynamics and approaches relevant for idea categorisations.
 * [**Experimental Categories Analysis**](broken-reference) - Analysis for understanding why a suggested experimental category can be introduced and what problems it could help solve.
