@@ -1,12 +1,12 @@
 ---
 description: >-
-  Overview of why categorisation approaches are important and a comparison
-  between funding categories and challenge settings
+  Comparison between categorisation approaches used for the suggested idea
+  funding categories and challenge settings
 ---
 
 # Overview
 
-Funding categorisations can be created using a mixture of different approaches. These approaches often have large implications on the complexity, effort and overall costs of handling the categorisation process.
+Idea based funding categorisations can be created using a mixture of different approaches. These approaches often have large implications on the complexity, effort and overall costs of handling the categorisation process.
 
 Each of the approaches analysed in this section are compared in how they impact funding categorisation. The outcome from this analysis was that the more effective approaches were determined. These were categorisations that leant towards being broad, inclusive, unique and recurring.
 
@@ -14,7 +14,7 @@ Funding categories have been created based on the more effective categorisation 
 
 Using different funding categorisation approaches is also not binary in terms of implementation. A given approach can sit somewhere between each end of a sliding scale. For instance for broad versus specific categorisation approaches the use of a single categorisation would represent the most broad it can be. Two categorisations is slightly less broad than that. Three categorisations would be even less broad, and so on.
 
-There four main approaches for categorisations to consider are:
+There four main approaches for idea based categorisations to consider are:
 
 * [Broad vs Specific Categorisations](broad-vs-specific-categorisations.md)
 * [Inclusive vs Exclusive Categorisations](inclusive-vs-exclusive-categorisations.md)
@@ -23,13 +23,13 @@ There four main approaches for categorisations to consider are:
 
 
 
-### Funding categories vs challenge settings
+### Suggested idea funding categories vs challenge settings
 
 <figure><img src="../.gitbook/assets/categorisation-approaches-comparison (1).png" alt=""><figcaption></figcaption></figure>
 
-**Funding categories**
+**Suggested Idea funding categories**
 
-* **Broad** - Funding categories uses four broad categories to cover idea based proposals. It also adds a contributor model with two contributor based categories and an experimental category to support ideas and teams.
+* **Broad** - The suggested idea funding categories uses four broad categories to cover idea based proposals. It also adds a contributor model with two contributor based categories and an experimental category to support ideas and teams.
 * **Inclusive** - All forms of ideas and innovation can be submitted in funding categories.
 * **Unique** - The only current overlapping category is nurturing ideas & teams which accepts any proposal focus area but just puts a cap on the budget requested. The other categories are fully unique.
 * **Recurring** - Funding categories are pre-defined and would be used on a recurring basis. Funding categories would be updated when insights or data provide justifications for making changes.
