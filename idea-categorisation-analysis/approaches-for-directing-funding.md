@@ -1,7 +1,7 @@
 ---
 description: >-
   Exploring others ways that could be used to more effectively direct funding
-  than just through funding categorisations
+  than just through how we approach funding categorisations
 ---
 
 # Approaches For Directing Funding

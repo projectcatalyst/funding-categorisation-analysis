@@ -23,9 +23,7 @@
 
 ## Idea Categorisation Analysis
 
-* [Rapid Funding](idea-categorisation-analysis/rapid-funding.md)
-* [FAQs](idea-categorisation-analysis/faqs/README.md)
-  * [Using Categories & Challenges](idea-categorisation-analysis/faqs/using-categories-and-challenges.md)
+* [Rapid Funding Considerations](idea-categorisation-analysis/rapid-funding-considerations.md)
 * [Scaling Funding Categories](idea-categorisation-analysis/scaling-funding-categories.md)
 * [Incentives & Game Theory For Open Source Development](idea-categorisation-analysis/incentives-and-game-theory-for-open-source-development.md)
 * [Community Priorities & Idea Proposal Supply Dynamics](idea-categorisation-analysis/community-priorities-and-idea-proposal-supply-dynamics.md)

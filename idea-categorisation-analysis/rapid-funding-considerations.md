@@ -4,11 +4,11 @@ description: >-
   categories
 ---
 
-# Rapid Funding
+# Rapid Funding Considerations
 
 Many of the challenge settings from [previous selected challenges](https://docs.catalystcontributors.org/funding-categorisation-analysis-1/historical-analysis-and-comparisons/previous-selected-categorisations) and proposals benefit from having access to rapid funding. This benefit of rapid funding is also the case for when using broad categories as it accepts the same proposals that the current process does.
 
-The following are some ideas for where rapid funding could be used for each of the broad categories. Rapid funding would be an alternative to proposal based funding. This list is not exhaustive but provides ideas towards how alternative funding could impact what teams end up using the proposal process.
+The following are some ideas for where rapid funding could be used for each of the broad categories. Rapid funding would be an alternative to idea based funding. This list is not exhaustive but provides ideas towards how alternative funding could impact what teams end up using the proposal process.
 
 
 
