@@ -6,9 +6,9 @@ description: >-
 
 # Addressing Concerns & Challenging Funding Situations
 
-There are a number of potential problems to take into account when defining and using funding categorisations.
+There are a number of potential problems to take into account when defining and using idea based funding categorisations.
 
-The following is a list of different problems that could exist or that should at least be considered. For each problem some detail is provided on the relevance of the problem to funding categorisation and what potential solutions can be introduced to help address that problem.
+The following is a list of different problems that could exist or that should at least be considered. For each problem some detail is provided on the relevance of the problem to idea based funding categorisation and what potential solutions can be introduced to help address that problem.
 
 
 
