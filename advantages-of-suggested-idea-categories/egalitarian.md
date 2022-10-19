@@ -1,14 +1,14 @@
 ---
 description: >-
-  Funding categories are more effective at being an egalitarian form of funding
-  categorisation
+  Suggested idea funding categories are more effective at being an egalitarian
+  form of funding categorisation
 ---
 
 # Egalitarian
 
 ### **Why is it important?**
 
-Egalitarian funding categorisation means ensuring no person or proposal has an unfair advantage over another. It also means that there should be equal access to opportunity for anyone in the community to being able to submit proposals for consideration. The importance of [egalitarian funding categorisation](../categorisation-analysis/egalitarian-funding-categorisation.md) has been documented and provides more information and examples.
+Egalitarian funding categorisation means ensuring no person or proposal has an unfair advantage over another. It also means that there should be equal access to opportunity for anyone in the community to being able to submit proposals for consideration. The importance of [egalitarian funding categorisation](../idea-categorisation-analysis/egalitarian-funding-categorisation.md) has been documented and provides more information and examples.
 
 ****
 

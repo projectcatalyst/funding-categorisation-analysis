@@ -1,14 +1,14 @@
 ---
 description: >-
-  Funding categories are able to effectively direct funding with complimentary
-  approaches and an independent objective setting process
+  Suggested idea funding categories are able to effectively direct funding with
+  complimentary approaches and an independent objective setting process
 ---
 
 # Effectively Directs Funding
 
 ### **Why is it important?**
 
-The community needs to be able to effectively direct funding to the most impactful areas in the ecosystem. The objectives and problems within the community often change between funding rounds. Funding categorisation needs to accommodate these changes. There are a number of [approaches for directing funding](../categorisation-analysis/approaches-for-directing-funding.md) that can be used and should be considered when comparing the challenge setting process with funding categories.
+The community needs to be able to effectively direct funding to the most impactful areas in the ecosystem. The objectives and problems within the community often change between funding rounds. Funding categorisation needs to accommodate these changes. There are a number of [approaches for directing funding](../idea-categorisation-analysis/approaches-for-directing-funding.md) that can be used and should be considered when comparing the challenge setting process with funding categories.
 
 ****
 
@@ -30,4 +30,4 @@ The community needs to be able to effectively direct funding to the most impactf
 ### **Summary**
 
 * Funding categories can be sufficiently effective for directing funding by using budget weighting votes on the amount of funding to apply to each category. The main benefit of funding categories for directing funding is it removes the problems around missing out on innovation from excluded objectives and proposal type areas and also situations where specific categorisations struggle with a lower number of quality of proposals submitted.
-* Integrating an [independent objective setting process](https://docs.catalystcontributors.org/funding-categorisation-analysis-1/community-goals-and-objectives/independent-goals-and-objective-setting-process) and using [different approaches for directing funding](../categorisation-analysis/approaches-for-directing-funding.md) means that the Catalyst process can benefit from the simplicity of funding categories whilst also becoming highly effective at being able to direct funding based off the needs of the community.
+* Integrating an [independent objective setting process](https://docs.catalystcontributors.org/funding-categorisation-analysis-1/community-goals-and-objectives/independent-goals-and-objective-setting-process) and using [different approaches for directing funding](../idea-categorisation-analysis/approaches-for-directing-funding.md) means that the Catalyst process can benefit from the simplicity of funding categories whilst also becoming highly effective at being able to direct funding based off the needs of the community.

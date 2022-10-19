@@ -1,7 +1,7 @@
 ---
 description: >-
-  Funding categories are more flexible to a varied number and quality of
-  proposals
+  Suggested idea funding categories are more flexible to a varied number and
+  quality of proposals
 ---
 
 # Flexible

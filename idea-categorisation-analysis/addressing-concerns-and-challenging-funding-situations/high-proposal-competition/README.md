@@ -15,7 +15,7 @@ Funding categorisations impact the number of proposals that can be submitted int
 
 **Fair in theory**
 
-Broad categorisation allows anyone across the world to submit a wide range of different proposals in a single categorisation. If the categorisations are in aggregate also inclusive then this creates funding categorisation which is [egalitarian ](../../../categorisation-analysis/egalitarian-funding-categorisation.md)as no preference is given to one person, proposal type or location over another.
+Broad categorisation allows anyone across the world to submit a wide range of different proposals in a single categorisation. If the categorisations are in aggregate also inclusive then this creates funding categorisation which is [egalitarian ](../../egalitarian-funding-categorisation.md)as no preference is given to one person, proposal type or location over another.
 
 
 
@@ -46,7 +46,7 @@ Funding categorisation can impact the amount of competition between proposals an
 
 **Integrate any of the many approaches that help with directing funding**
 
-A wide range of approaches have been detailed in the [approaches for directing funding](../../../categorisation-analysis/approaches-for-directing-funding.md) analysis. These are all relevant for making it easier to view, group, compare, filter, sort and rank proposals which means they can help with making it fairer and easier for each proposal to get fair consideration by how easy it is to find certain types or ones with specific focuses.
+A wide range of approaches have been detailed in the [approaches for directing funding](../../approaches-for-directing-funding.md) analysis. These are all relevant for making it easier to view, group, compare, filter, sort and rank proposals which means they can help with making it fairer and easier for each proposal to get fair consideration by how easy it is to find certain types or ones with specific focuses.
 
 
 

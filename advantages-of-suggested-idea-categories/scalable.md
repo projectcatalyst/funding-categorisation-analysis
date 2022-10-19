@@ -1,5 +1,7 @@
 ---
-description: Funding categories are easier to scale than the challenge setting process
+description: >-
+  Suggested idea funding categories are easier to scale than the challenge
+  setting process
 ---
 
 # Scalable

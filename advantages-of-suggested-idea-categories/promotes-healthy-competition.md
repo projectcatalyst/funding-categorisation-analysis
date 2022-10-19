@@ -1,7 +1,7 @@
 ---
 description: >-
-  Funding categories promote healthy competition between a diverse amount of
-  proposals
+  Suggested idea funding categories promote healthy competition between a
+  diverse amount of proposals
 ---
 
 # Promotes Healthy Competition

@@ -1,5 +1,7 @@
 ---
-description: Funding categories are a simple effective approach to funding categorisation
+description: >-
+  Suggested idea funding categories are a simple effective approach to funding
+  categorisation
 ---
 
 # Simple

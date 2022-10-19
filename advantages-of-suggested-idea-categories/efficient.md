@@ -1,7 +1,7 @@
 ---
 description: >-
-  Funding categories are more efficient for all stakeholders in the funding
-  process
+  Suggested idea funding categories are more efficient for all stakeholders in
+  the funding process
 ---
 
 # Efficient

@@ -1,12 +1,12 @@
 ---
 description: >-
-  Reasons why funding categories are a better solution for funding
-  categorisation
+  Reasons why the suggested idea funding categories offer a better solution for
+  idea based funding categorisations
 ---
 
 # Overview
 
-Funding categories offer a number of advantages that make it an effective approach for funding categorisation.
+The suggested [idea funding categories](https://docs.catalystcontributors.org/catalyst-funding-categories/idea-funding-categories) offer a number of advantages that make it an effective approach for funding categorisation.
 
 <figure><img src="../.gitbook/assets/categories-benefits.png" alt=""><figcaption></figcaption></figure>
 
