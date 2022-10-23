@@ -1,10 +1,10 @@
 ---
 description: >-
-  Looking at what categorisation types could be used to incentivise different
-  outcomes when distributing treasury funding
+  Comparing different funding categorisation types that can be used when
+  distributing treasury funding to incentivise impactful ecosystem initiatives
 ---
 
-# Comparing Categorisation Types
+# Comparing Funding Categorisation Types
 
 Idea, contributor, task and community funding categorisations each offer a different approach to handle and distribute treasury funding. Each categorisation type are effective for different purposes and can each help to achieve different outcomes. The advantages and issues for each categorisation based on a range of factors are worth considering when determining when to use each type of categorisation.
 

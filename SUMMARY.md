@@ -10,7 +10,7 @@
 
 ## Analysis
 
-* [Comparing Categorisation Types](analysis/comparing-categorisation-types.md)
+* [Comparing Funding Categorisation Types](analysis/comparing-funding-categorisation-types.md)
 * [Scaling Funding Categories](analysis/scaling-funding-categories.md)
 * [Combining vs Separated Idea & Contributor Categorisations](analysis/combining-vs-separated-idea-and-contributor-categorisations.md)
 * [Rapid Funding Considerations](analysis/rapid-funding-considerations.md)
