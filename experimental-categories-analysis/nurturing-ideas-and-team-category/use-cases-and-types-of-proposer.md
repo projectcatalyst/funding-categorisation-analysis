@@ -40,10 +40,10 @@ People who have just joined the community and are looking for a less competitive
 
 **Less well known individuals and teams**
 
-Active individuals and teams already participating in the community can also benefit from categorisations that make it easier for them to get funded for ideas they are working on so they can get more exposure when those projects get completed and shared with the wider community.
+Active individuals and teams already participating in the community but that could benefit from categorisations that make it easier for them to get some initial funding for ideas they are working on. Executing smaller proposals can help these individuals or teams get more exposure when the projects are completed and can be shared with the wider community.
 
 
 
-**Existing community members**
+**Funded community members**
 
-Existing community members that are well known would still benefit from a category to submit small ideas of experimentation when they see opportunity to work on new ideas and initiatives that they believe will provide impact for the ecosystem. Existing community members will have insights based on their experience in the ecosystem that can translate to thinking of a range of small ideas, initiatives and experiments for the community to consider.
+Funded community members are anyone that has already been funded previously. These community members may or may not be more well known in the community. Funded community members would benefit from a category by being able to submit small ideas and experiments when they see opportunity to work on something that they believe will produce impact for the ecosystem. Funded community members will have insights based on their experience in the ecosystem that can translate to thinking of a range of small ideas, initiatives and experiments for the community to consider.
