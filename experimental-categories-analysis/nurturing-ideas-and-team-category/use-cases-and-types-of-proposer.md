@@ -32,15 +32,15 @@ Some larger ideas will benefit from breaking apart some of the initial work to r
 
 
 
-**Ecosystem newcomers**
+**Newcomers to funding process**
 
-People who have just joined the community and are looking for a less competitive way to start trying out new ideas in the ecosystem would benefit from a category that helps to fund a larger number of smaller ideas and initiatives. A category that helps newcomers will help them build a reputation in the community.
+People in the community who are now looking to start using the funding process to submit their ideas. These newcomers to the process could be looking for a less competitive way to start trying out new ideas in the ecosystem and would benefit from a category that makes it easier for them to get some initial funding. A category that helps newcomers can help with them building a reputation in the community.
 
 
 
-**Less well known individuals and teams**
+**Non funded individuals and teams**
 
-Active individuals and teams already participating in the community but that could benefit from categorisations that make it easier for them to get some initial funding for ideas they are working on. Executing smaller proposals can help these individuals or teams get more exposure when the projects are completed and can be shared with the wider community.
+Active individuals and teams already participating in the community that have tried to receive funding already but so far have not been funded. These proposers could benefit from categorisations that make it easier for them to get some initial funding for the ideas they are working on. Executing smaller scoped proposals could help these individuals or teams get more exposure when the projects are completed and can be shared with the wider community. Some of the individuals or teams may be less well known in the community which could be a contributing factor for why they have no received funding so far.
 
 
 
