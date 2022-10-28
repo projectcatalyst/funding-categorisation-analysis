@@ -8,7 +8,7 @@ description: >-
 
 <figure><img src="../.gitbook/assets/ideas-contributors-categorisations.png" alt=""><figcaption></figcaption></figure>
 
-Consider the potential focus area responsibilities for [Catalyst Contributors](https://docs.catalystcontributors.org/catalyst-contributors/catalyst-contributor/focus-areas) and [Cardano Contributors](https://docs.catalystcontributors.org/cardano-contributors/cardano-contributor/focus-areas).
+Consider the potential focus area responsibilities for [Catalyst Contributors](https://docs.catalystcontributors.org/catalyst-contributors/catalyst-contributor/focus-areas) and [Infrastructure Contributors](https://app.gitbook.com/o/Pr76HeHUxsbctwx0OULs/s/qOxGN6OZJwo22azqs7YJ/).
 
 ****
 
