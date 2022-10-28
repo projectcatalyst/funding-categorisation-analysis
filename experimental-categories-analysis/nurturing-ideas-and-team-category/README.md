@@ -6,7 +6,7 @@ description: >-
 
 # Nurturing Ideas & Team Category
 
-![](../.gitbook/assets/experimental-categories.png)
+![](../../.gitbook/assets/experimental-categories.png)
 
 ****[**Nurturing Ideas & Team category**](https://docs.catalystcontributors.org/catalyst-funding-categories/funding-categories/nurturing-ideas-and-teams)
 
@@ -51,3 +51,15 @@ Analysis will be needed to look at how funding categories are used and what outc
 * **Increased funded proposal diversity** - The maximum cap on proposal budget should help increase diversity of who gets funded by increasing the number of proposals that will be selected after the vote for funding.
 * **New ideas & more experimentation** - There may be ideas that are not well covered under the four main categories which get suggested in this category. The other four main categories are meant to be inclusive of all ideas and innovation so if this occurs it would be more of a mistake of clarity rather than actual intention. The max cap on the budget size for the proposal helps to increase the number of funded proposals which will help to increase the rate of experimentation.
 * **Lower competition & guaranteed number of proposals funded** - Putting a cap on the proposal size helps to limit more well established players from taking a large part of the budget allocated and helps to guarantee a certain number of proposals will be funded using the categorisation. &#x20;
+
+
+
+**Further analysis**
+
+{% content-ref url="use-cases-and-types-of-proposer.md" %}
+[use-cases-and-types-of-proposer.md](use-cases-and-types-of-proposer.md)
+{% endcontent-ref %}
+
+{% content-ref url="category-rule-approaches.md" %}
+[category-rule-approaches.md](category-rule-approaches.md)
+{% endcontent-ref %}
