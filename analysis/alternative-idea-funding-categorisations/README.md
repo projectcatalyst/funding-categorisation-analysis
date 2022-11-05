@@ -58,9 +58,9 @@ The four categorisations are broad but have enough focus areas included to ensur
 
 
 
-**Nurturing Ideas & Teams**
+**Small & Early Stage Ideas**
 
-New ideas and smaller or lesser known teams could likely struggle to compete in broad categorisations if they must compete with the established projects who already have a good reputation in the ecosystem. This would especially be the case for a single categorisation approach which would mean every proposal would be competing with every established project in the ecosystem that submits a proposal. The issues of the funding process becoming a popularity contest increases when you reduce the number of categorisations and increase the amount of competition between proposals. Other categories can be created to support funding initiatives for smaller ideas and teams such as the suggested Nurturing Ideas & Team category. It could be beneficial to use this approach for funding categorisation alongside any of the idea based categorisation approaches suggested above. The use of an extra categorisation for this purpose does not need to be included in the comparisons between the main idea based categorisation options.
+New ideas and smaller or lesser known teams could likely struggle to compete in broad categorisations if they must compete with the established projects who already have a good reputation in the ecosystem. This would especially be the case for a single categorisation approach which would mean every proposal would be competing with every established project in the ecosystem that submits a proposal. The issues of the funding process becoming a popularity contest increases when you reduce the number of categorisations and increase the amount of competition between proposals. Other categories can be created to support funding initiatives for smaller ideas and teams such as the suggested Small & Early Stage Ideas category. It could be beneficial to use this approach for funding categorisation alongside any of the idea based categorisation approaches suggested above. The use of an extra categorisation for this purpose does not need to be included in the comparisons between the main idea based categorisation options.
 
 
 

@@ -16,7 +16,7 @@ The Cardano proposals categorisation simply means that all proposals are submitt
 
 **No budget weighting complexity**
 
-By not using multiple idea categorisations there would be no budget weighting decision. This advantage is somewhat limited as there is still the merit of other categorisation types such as Nurturing Ideas & Teams to help with more experimental ideas and smaller teams in being able to get initial funding. Contributor categorisations also offer a useful recurring incentive structure to help community members work full time to support, maintain and improve the ecosystem. Due to this having a single categorisation for ideas wouldn’t mean that there would be no budget weighting decisions at all in the funding process.
+By not using multiple idea categorisations there would be no budget weighting decision. This advantage is somewhat limited as there is still the merit of other categorisation types such as Small & Early Stage Ideas to help with more experimental ideas and smaller teams in being able to get initial funding. Contributor categorisations also offer a useful recurring incentive structure to help community members work full time to support, maintain and improve the ecosystem. Due to this having a single categorisation for ideas wouldn’t mean that there would be no budget weighting decisions at all in the funding process.
 
 
 
