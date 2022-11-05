@@ -173,9 +173,9 @@ Every existing previously selected funding categorisation created through challe
 
 ****
 
-**Nurturing Ideas & Teams**
+**Small & Early Stage Ideas**
 
-This category is open to any idea from the community so all previous challenges could have proposals that fit into this category. The only constraint in the [Nurturing Ideas & Teams](broken-reference) category is proposals have a small maximum budget so they can try out different ideas and form teams.
+This category is open to any idea from the community so all previous challenges could have proposals that fit into this category. The only constraint in the Small & Early Stage Ideas category is proposals have a small maximum budget so they can try out different ideas and form teams.
 
 ****
 

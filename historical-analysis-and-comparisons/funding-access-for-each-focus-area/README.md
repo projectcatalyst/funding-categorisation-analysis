@@ -40,7 +40,7 @@ All of the following examples have a dedicated fund page that include observatio
 
 The usage of funding categories can achieve the same or better outcomes than the challenge setting approach but with far less complexity and also ensures that a wide range of proposals focus areas always have access to potential funding.
 
-For the following examples we ignore Catalyst contributors and Cardano contributors as these are new funding models that aren't focussed on the normal proposal model. Just comparing proposal based categorisations make this a like for like comparison for the historical examples. Nurturing Ideas & Teams is also ignored as it accepts all forms of idea and innovation so is not important for this comparison.
+For the following examples we ignore Catalyst contributors and Cardano contributors as these are new funding models that aren't focussed on the normal proposal model. Just comparing proposal based categorisations make this a like for like comparison for the historical examples. Small & Early Stage Ideas is also ignored as it accepts all forms of idea and innovation so is not important for this comparison.
 
 
 

@@ -6,7 +6,7 @@ description: >-
 
 # Goal & Objectives With Funding Categories
 
-Funding categories offer a way to drastically simplify the funding categorisation of Catalyst by using a smaller number of broad, recurring and inclusive categorisations. Funding categories are a category based approach to bring together proposals based upon being in a similar focus area. Some example focus areas are Governance & Identity or Community & Outreach or there are categorisations that aim to fulfil a certain function like Nurturing Ideas & Teams.
+Funding categories offer a way to drastically simplify the funding categorisation of Catalyst by using a smaller number of broad, recurring and inclusive categorisations. Funding categories are a category based approach to bring together proposals based upon being in a similar focus area. Some example focus areas are Governance & Identity or Community & Outreach or there are categorisations that aim to fulfil a certain function like Small & Early Stage Ideas.
 
 
 
