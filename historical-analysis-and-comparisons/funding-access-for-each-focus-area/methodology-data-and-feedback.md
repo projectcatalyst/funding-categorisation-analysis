@@ -20,7 +20,7 @@ All the tagging data that was created for use in the images can be found here:
 
 ### **Feedback**
 
-Please provide any feedback or suggest any changes or improvements in the Telegram group -[https://t.me/catalystfundingcategories](https://t.me/catalystfundingcategories)
+Please provide any feedback or suggest any changes or improvements in the Telegram group -[https://t.me/cardanopace](https://t.me/cardanopace)
 
 
 
